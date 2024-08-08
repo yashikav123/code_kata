@@ -1,3 +1,8 @@
+A person saves his monthly saving according to given schema. He saves same amount of money which is equal to the money saved in immediate previous two months.
+    Assume, initially he saved 1000 rupees and in first month he saved another 1000. 
+    Your task is to tell how much he had totally saved at the end of ‘n’ months
+
+
 import java.util.*;
 class Main{
     public static void main(String[] args)
